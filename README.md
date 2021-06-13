@@ -1,2 +1,2 @@
 # my-first-repository
-Sigo practicando mi primer repositorio
+Sigo practicando porque no domino el control de versiones
